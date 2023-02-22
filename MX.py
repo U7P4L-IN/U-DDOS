@@ -116,7 +116,7 @@ def pilih():
 	pahrul = raw_input('(+) choose : ')
 	if pahrul == "":
 		print ("")
-		print "(+) What are you typing, man? !!!"
+		print "(+) Ngetik Apaan Lu bangsad !!!"
 		exit()
 	elif pahrul == "1":
 		x()
@@ -134,7 +134,7 @@ def pilih():
 		exit()
 	else:
 		print ("")
-		print "(+) What are you typing, man? !!!"
+		print "(+) Ngetik Apaan Lu bangsad !!!"
 		exit()
 		
 masuk()
