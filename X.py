@@ -127,11 +127,11 @@ def masuk():
 	
 def pilih():
 	U7P4L = raw_input('(+) choose : ')
-	if pahrul == "":
+	if U7P4L == "":
 		print ("")
 		print "(+) Your Choice !!!"
 		exit()
-	elif pahrul == "1":
+	elif U7P4L == "1":
 		x()
 	elif U7P4L == "2":
 		xx()
