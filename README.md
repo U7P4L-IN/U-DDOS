@@ -37,7 +37,7 @@ AUTHOR:
 ```
 #### Screenshots:
 
-<p align="center"><img src="name">
+<p align="center"><img src="https://github.com/U7P4L-IN/Wa-Virus/blob/main/Screenshot_2023-02-22-19-21-19-570_com.termux.jpg">
 
 
 #### Tools Languages :
