@@ -25,7 +25,6 @@ load = ('''
 
 logo = ('''
 
-
    ###    ##       ##                                
   ## ##   ##       ##                                
  ##   ##  ##       ##                                
@@ -126,28 +125,28 @@ def masuk():
 	pilih()
 	
 def pilih():
-	U7P4L = raw_input('(+) choose : ')
-	if U7P4L == "":
+	pahrul = raw_input('(+) choose : ')
+	if pahrul == "":
 		print ("")
-		print "(+) Your Choice !!!"
+		print "(+) What are you typing, man? !!!"
 		exit()
-	elif U7P4L == "1":
+	elif pahrul == "1":
 		x()
-	elif U7P4L == "2":
+	elif pahrul == "2":
 		xx()
-	elif U7P4L == "3":
+	elif pahrul == "3":
 		xxx()
-	elif U7P4L == "4":
+	elif pahrul == "4":
 		xxxx()
-	elif U7P4L == "5":
+	elif pahrul == "5":
 		xxxxx()
-	elif U7P4L == "6":
+	elif pahrul == "6":
 		xxxxxx()
-	elif U7P4L == "0":
+	elif pahrul == "0":
 		exit()
 	else:
 		print ("")
-		print "(+) Type What Lu Nation !!!"
+		print "(+) What are you typing, man? !!!"
 		exit()
 		
 masuk()
