@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U-DDOS/blob/main/image/github-header-image%20(1).png">
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=U+DDOS&fontAlign=80&fontAlignY=40&color=gradient)
 
 </p>
@@ -33,7 +31,7 @@
  
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
 
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/Screenshot%20from%202024-01-30%2004-22-50.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/master/image/Screenshot%20from%202024-01-30%2004-22-50.png)
 
 # Tree
 * [Read now pls](#README)
@@ -103,21 +101,21 @@ chmod 777 *
 python3 U-DDOS.py
 ```
 # HELP:
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230813202245.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/master/image/ScreenShot_20230813202245.png)
 
 # LEYAR 7:
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230813202420.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/master/image/ScreenShot_20230813202420.png)
 # LEYAR 4:
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230813202501.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/master/image/ScreenShot_20230813202501.png)
 # AMP METHOD :
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230813202543.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/master/image/ScreenShot_20230813202543.png)
 # PORT :
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230813203251.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/master/image/ScreenShot_20230813203251.png)
 
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Warning.gif">
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/Warning.gif">
  
 # RULES:
-![lk](https://github.com/U7P4L-IN/U-DDOS/blob/main/image/ScreenShot_20230813202721.png)
+![lk](https://github.com/U7P4L-IN/U-DDOS/blob/master/image/ScreenShot_20230813202721.png)
 
 ```sh
 Do Not Attack Government Pages (.Gov/.Gob), Educational Pages (.Edu) Or The United States Department Of Defense (.Mil), 
